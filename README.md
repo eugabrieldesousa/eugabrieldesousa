@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 align="center" >Fala Jovem <img src="https://media.giphy.com/media/l378yjDKofRszKaAw/giphy.gif" width="32px">
+
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
+## 💡 Sobre mim :
+ - *Me chamo Gabriel de Sousa e sou de Joinville, Santa Catarina* 
+
+ - *Entusiasta no que se diz a respeito de tecnologia* 
+ 
+ - *Atualmente estudando um curso FullStack na [Univille](https://www.univille.edu.br/)* 
+ 
+ - *Me dou bem com arte, sou músico 🎹, desenho um pouco 🎈 e gosto de desafiar minha criatividade*
+ 
+ - *Comecei meu estudos de programação em Março de 2022*
+
+ - **Meta: ser um ótimo Dev** 
 
 
-bamgabsz/bamgabsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔮 Minha Stack
+  Essa aréa ainda esta em desenvolvimento! 🛑
 
-Here are some ideas to get you started:
+<div align="center">
+ <img src="https://media.giphy.com/media/lBrqckJ3fwxpo05EbB/giphy.gif" width="100">      
+ <img src="https://media.giphy.com/media/lBrqckJ3fwxpo05EbB/giphy.gif" width="100">      
+ <img src="https://media.giphy.com/media/lBrqckJ3fwxpo05EbB/giphy.gif" width="100">      
+ <img src="https://media.giphy.com/media/lBrqckJ3fwxpo05EbB/giphy.gif" width="100">      
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+## 📈 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/bamgabsz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamgabsz&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bamgabsz&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+<br>
+ 
+## 🎶 Ouvindo...
+ 
+
+## **Vamos conversar**
+
+Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
+
+<div align="center">
+<a href="https://twitter.com/bamgabsz" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href="https://github.com/bamgabsz"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/bamgab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="mailto:bamgabsz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/gabriel-de-sousa-4654b9247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+ 
+#
+ 
+## Snake animation
