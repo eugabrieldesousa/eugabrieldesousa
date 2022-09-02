@@ -29,12 +29,7 @@
 
 ## 📈 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/bamgabsz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamgabsz&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bamgabsz&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-<br>
+
  
 ## 🎶 Ouvindo...
  
