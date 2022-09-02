@@ -50,4 +50,3 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
  
 #
  
-## Snake animation
