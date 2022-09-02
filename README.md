@@ -38,7 +38,7 @@
  
 ## 🎶 Ouvindo...
  
- [![Spotify](https://bamgabsz.vercel.app/api/spotify)](https://open.spotify.com/user/31zjhkctzqinfk4jkhx5cfx2bv6e)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zjhkctzqinfk4jkhx5cfx2bv6e)
 
 ## **Vamos conversar**
 
