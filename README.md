@@ -3,7 +3,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Me chamo Gabriel de Sousa e sou de Joinville, Santa Catarina* 
+ - *Me chamo Gabriel de Sousa, tenho 18 anos e sou de Joinville, Santa Catarina* 
 
  - *Entusiasta no que se diz a respeito de tecnologia* 
  
