@@ -29,7 +29,7 @@
 
 ## 📈 Estatísticas
 
-![Gabriel de Sousa's GitHub stats](https://github-readme-stats-steel-omega-98.vercel.app/api?username=bamgabsz&show_icons=true&theme=radical)
+![Gabriel de Sousa's GitHub stats](https://github-readme-stats.bamgabsz.vercel.app/api?username=bamgabsz&show_icons=true&theme=radical)
 
  
 ## 🎶 Ouvindo...
