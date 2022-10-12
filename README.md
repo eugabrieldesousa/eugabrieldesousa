@@ -29,6 +29,7 @@
 
 ## 📈 Estatísticas
 
+![Anurag's GitHub stats](https://github-readme-stats.bamgabsz.vercel.app/api?username=bamgabsz&show_icons=true&theme=radical)
  
 ## 🎶 Ouvindo...
  
