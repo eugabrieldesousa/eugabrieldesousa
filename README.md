@@ -29,8 +29,8 @@
 
 ## 📈 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.bamgabsz.vercel.app/api?username=bamgabsz&show_icons=true&theme=radical)
- 
+![bamgabsz's GitHub stats](https://github-readme-stats-eosin-seven-96.vercel.app/api?username=bamgabsz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-eosin-seven-96.vercel.app/api/top-langs/?username=bamgabsz&layout=compact)](https://github.com/bamgabsz/github-readme-stats)
 ## 🎶 Ouvindo...
  
  [![Spotify](https://spotify-now-playing-7r96grcwy-bamgabsz.vercel.app/api/spotify)](https://open.spotify.com/user/31zjhkctzqinfk4jkhx5cfx2bv6e)
