@@ -1,6 +1,6 @@
 <h1 align="center" > Hi </h1>
 
-## 🎶 Ouvindo...
+## listening now
  
  [![Spotify](https://spotify-now-playing-7r96grcwy-bamgabsz.vercel.app/api/spotify)](https://open.spotify.com/user/31zjhkctzqinfk4jkhx5cfx2bv6e)
 
