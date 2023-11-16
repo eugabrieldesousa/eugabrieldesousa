@@ -1,16 +1,9 @@
 <h1 align="center" > keep going </h1>
 
-## listening now
- 
- [![Spotify](https://spotify-now-playing-7r96grcwy-bamgabsz.vercel.app/api/spotify)](https://open.spotify.com/user/31zjhkctzqinfk4jkhx5cfx2bv6e)
+I am a dedicated and passionate individual with a profound interest in programming, consistently seeking opportunities to tackle challenges and enhance my skills. My journey in the field of technology began with a rigorous selection process that led me to enroll in the technical course at UNIVILLE, generously sponsored by FAPESC.
 
-## let's talk?
+Currently, I am channeling my enthusiasm and commitment into my academic pursuits at UNISOCIESC, where I am actively engaged in pursuing a degree in Analysis and Systems Development. My academic journey reflects my unwavering commitment to excellence and a desire to contribute meaningfully to the dynamic world of software development.
 
-<div align="center">
-<a href="https://github.com/sousagbrl"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/sousagbrl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="mailto:gabrielbamdsousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/sousagbrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.youtube.com/channel/UCGrQOVt5teR218NaMsAzeqQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a>
-</div>
+Feel free to explore my repositories to witness my evolving journey in the realm of programming and technology.
 
- 
-#
- 
-![Snake animation](https://github.com/bamgabsz/bamgabsz/blob/output/github-contribution-grid-snake.svg)
+
