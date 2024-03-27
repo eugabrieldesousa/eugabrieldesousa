@@ -1,8 +1,6 @@
 <h1 align="center" > keep going! </h1><br>
 
-<p align="center" >Passionate programmer on an academic journey at UNISOCIESC, pursuing a degree in Analysis and Systems Development. Started in tech at UNIVILLE, sponsored by FAPESC. Check out my evolving programming journey in my repositories. </p><br>
-
-<p align="center">Unfortunately, I lost some Java and PHP repositories during my time at FAPESC.</p>
+<p align="center" >Programador apaixonado em uma jornada acadêmica na UNISOCIESC, buscando um diploma em Análise e Desenvolvimento de Sistemas. Comecei na área de tecnologia na UNIVILLE, patrocinado pela FAPESC. Perdi grande parte de meus repositorios da FAPESC, o restante trabalhado está privado em repositorios de empresas. </p><br>
 
 <div align="center">
 <div style="display: inline_block" align="center"><br>
