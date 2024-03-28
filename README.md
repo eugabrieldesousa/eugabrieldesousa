@@ -10,7 +10,11 @@
   <img width="41%" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabrieldesousa&layout=compact&hide_border=true&title_color=DCD9D4&text_color=DCD9D4&bg_color=0d1117" />
 </div>
 
-<img href="mailto:eugabrieldesousa@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<div> 
+  <a href = "mailto:eugabrieldesousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCD9D4&height=80&section=footer"/>
 
