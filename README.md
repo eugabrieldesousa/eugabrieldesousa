@@ -3,5 +3,5 @@
 
   <br>
 
-  <img src="./assets/me.png" alt="Banner" width="100%" />
+  <img src="./assets" alt="Banner" width="100%" />
 </p>
